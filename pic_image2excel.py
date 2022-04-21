@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 #Open Image and destination XLS file
 img = plt.imread("pic.tif")
-dest_filename = 'empty_book.xlsx'
+dest_filename = 'pic_excel.xlsx'
 rows, cols, rgb = np.shape(img)
 R, G, B = img[:,:,0], img[:,:,1], img[:,:,2]
 wb = Workbook()
