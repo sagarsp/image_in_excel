@@ -15,10 +15,10 @@ This will create `pic_excel.xlsx` file
 
 Input image
 -----------
-![lena_std](https://user-images.githubusercontent.com/4906286/164445763-749777aa-181a-4b75-af42-f8edb3830743.jpg)
+![pic_trial](https://user-images.githubusercontent.com/4906286/164474012-6ef1077f-11af-4a44-90c8-924a0aa7ea71.jpg)
 
 
 
 Snippet from Output XLS
 -----------------------
-![Output](https://user-images.githubusercontent.com/4906286/164446654-0ec6ed65-1b3f-479c-a2e0-f9a00b5349d8.JPG)
+![image](https://user-images.githubusercontent.com/4906286/164473896-ad617995-733e-489b-ba22-c591e4d6b6a2.png)
