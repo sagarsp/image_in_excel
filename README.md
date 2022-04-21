@@ -6,4 +6,4 @@ Create `pic.tif` and put it in parallel to the python script.
 
 `python pic_image2excel.py`
 
-This will create `empty_book.xlsx` file
+This will create `pic_excel.xlsx` file
